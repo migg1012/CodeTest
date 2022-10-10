@@ -8,7 +8,7 @@ unsigned long fib(int);
 int main()
 {
     //fib(5);  // prints 3 2 1
-    printf("The fibonacci is %d\n",fib(50) );
+    printf("The fibonacci is %d\n",fib(30) );
     return 0;
 }
 
