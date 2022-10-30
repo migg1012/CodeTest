@@ -14,7 +14,7 @@ start of print f(x) = x/2 + 1
 */
 
 #include <stdio.h>
-int k=1;
+int k=1, j=1; newheight;
 void drawPyramid(int height)
 {
     for(int i = 1; height >= i; i++)
@@ -22,11 +22,14 @@ void drawPyramid(int height)
         for(k=i;((2*height)/2)-1 >= k;k++)
         {
             printf("a");
+            
         }
-        // for(int j = 1; (2*height)-1 >= j; j++)
-        // {
-        //     printf("#");
-        // }
+        
+        for(j = k;  height*2 >= j;  j++)
+        {
+            printf("#");
+        }
+        
         printf("\n");
     }
 
@@ -40,7 +43,7 @@ int main(int argc, char const *argv[])
     int height = 4;
 
     drawPyramid(height);
-    printf("\n");
+    printf("\n");\
     
     return 0;
 }
