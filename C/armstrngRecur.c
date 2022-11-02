@@ -1,3 +1,7 @@
+?*
+    Author: Marcor Santos
+    Armstrong Number
+*/
 #include <stdio.h>
 
 int sum = 0; 
