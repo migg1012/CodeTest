@@ -1,0 +1,12 @@
+/home/migg1012/Documents/repos/CodeTest/C#/Core Console/library/mylibrary/bin/Debug/net6.0/mylibrary.deps.json
+/home/migg1012/Documents/repos/CodeTest/C#/Core Console/library/mylibrary/bin/Debug/net6.0/mylibrary.dll
+/home/migg1012/Documents/repos/CodeTest/C#/Core Console/library/mylibrary/bin/Debug/net6.0/ref/mylibrary.dll
+/home/migg1012/Documents/repos/CodeTest/C#/Core Console/library/mylibrary/bin/Debug/net6.0/mylibrary.pdb
+/home/migg1012/Documents/repos/CodeTest/C#/Core Console/library/mylibrary/obj/Debug/net6.0/mylibrary.csproj.AssemblyReference.cache
+/home/migg1012/Documents/repos/CodeTest/C#/Core Console/library/mylibrary/obj/Debug/net6.0/mylibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/migg1012/Documents/repos/CodeTest/C#/Core Console/library/mylibrary/obj/Debug/net6.0/mylibrary.AssemblyInfoInputs.cache
+/home/migg1012/Documents/repos/CodeTest/C#/Core Console/library/mylibrary/obj/Debug/net6.0/mylibrary.AssemblyInfo.cs
+/home/migg1012/Documents/repos/CodeTest/C#/Core Console/library/mylibrary/obj/Debug/net6.0/mylibrary.csproj.CoreCompileInputs.cache
+/home/migg1012/Documents/repos/CodeTest/C#/Core Console/library/mylibrary/obj/Debug/net6.0/mylibrary.dll
+/home/migg1012/Documents/repos/CodeTest/C#/Core Console/library/mylibrary/obj/Debug/net6.0/ref/mylibrary.dll
+/home/migg1012/Documents/repos/CodeTest/C#/Core Console/library/mylibrary/obj/Debug/net6.0/mylibrary.pdb
