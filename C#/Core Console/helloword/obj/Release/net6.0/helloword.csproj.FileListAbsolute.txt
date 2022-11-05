@@ -1,0 +1,6 @@
+/home/migg1012/helloword/bin/Release/net6.0/helloword
+/home/migg1012/helloword/obj/Release/net6.0/helloword.csproj.AssemblyReference.cache
+/home/migg1012/helloword/obj/Release/net6.0/helloword.GeneratedMSBuildEditorConfig.editorconfig
+/home/migg1012/helloword/obj/Release/net6.0/helloword.AssemblyInfoInputs.cache
+/home/migg1012/helloword/obj/Release/net6.0/helloword.AssemblyInfo.cs
+/home/migg1012/helloword/obj/Release/net6.0/helloword.csproj.CoreCompileInputs.cache

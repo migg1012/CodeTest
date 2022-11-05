@@ -1,0 +1,5 @@
+/home/migg1012/helloword/bin/Release/net6.0/publish/helloword
+/home/migg1012/helloword/bin/Release/net6.0/publish/helloword.dll
+/home/migg1012/helloword/bin/Release/net6.0/publish/helloword.deps.json
+/home/migg1012/helloword/bin/Release/net6.0/publish/helloword.runtimeconfig.json
+/home/migg1012/helloword/bin/Release/net6.0/publish/helloword.pdb

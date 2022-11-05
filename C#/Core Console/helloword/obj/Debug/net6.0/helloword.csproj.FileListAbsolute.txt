@@ -1,0 +1,15 @@
+/home/migg1012/helloword/bin/Debug/net6.0/helloword
+/home/migg1012/helloword/bin/Debug/net6.0/helloword.deps.json
+/home/migg1012/helloword/bin/Debug/net6.0/helloword.runtimeconfig.json
+/home/migg1012/helloword/bin/Debug/net6.0/helloword.dll
+/home/migg1012/helloword/bin/Debug/net6.0/ref/helloword.dll
+/home/migg1012/helloword/bin/Debug/net6.0/helloword.pdb
+/home/migg1012/helloword/obj/Debug/net6.0/helloword.csproj.AssemblyReference.cache
+/home/migg1012/helloword/obj/Debug/net6.0/helloword.GeneratedMSBuildEditorConfig.editorconfig
+/home/migg1012/helloword/obj/Debug/net6.0/helloword.AssemblyInfoInputs.cache
+/home/migg1012/helloword/obj/Debug/net6.0/helloword.AssemblyInfo.cs
+/home/migg1012/helloword/obj/Debug/net6.0/helloword.csproj.CoreCompileInputs.cache
+/home/migg1012/helloword/obj/Debug/net6.0/helloword.dll
+/home/migg1012/helloword/obj/Debug/net6.0/ref/helloword.dll
+/home/migg1012/helloword/obj/Debug/net6.0/helloword.pdb
+/home/migg1012/helloword/obj/Debug/net6.0/helloword.genruntimeconfig.cache
